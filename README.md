@@ -19,7 +19,7 @@ Most of all I like to deal with low-level stuff and the like. Apart from that I 
   <img src="https://badges.pufler.dev/commits/monthly/Lockna?style=flat-square&color=black&logo=github">
 </a>
 
-** Some information about myself: **
+**Some information about myself: **
 
 - 💻 I’m currently working on [cernel](https://github.com/Lockna/cernel)
 - 🌱 I’m currently learning how to write a kernel 
