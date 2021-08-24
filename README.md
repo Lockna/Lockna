@@ -29,4 +29,4 @@ Most of all I like to deal with low-level stuff and the like. Apart from that I 
 
 **GitHub Stats:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lockna&show_icons=true&locale=en">
+<img src="https://github-readme-stats.vercel.app/api?username=Lockna&show_icons=true&locale=en&theme=omni">
