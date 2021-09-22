@@ -21,8 +21,8 @@ Most of all I like to deal with low-level stuff and the like. Apart from that I 
 
 **Some information about myself:**
 
-- 💻 I’m currently working on [cernel](https://github.com/Lockna/cernel)
-- 🌱 I’m currently learning how to write a kernel 
+- 💻 I’m currently working on [Anubis](https://github.com/anubis-rs/Anubis)
+- 🌱 I’m currently learning how to write a dynamic recompiled emulator and kernel stuff
 - 👯 I’m looking to collaborate on QMK Keyboard firmware
 - 💬 Ask me about various things to C or similar
 - 📫 You can contact me through [Email](mailto:raphael.ob@protonmail.com) or Discord (Lockna#5599)
