@@ -21,7 +21,7 @@ Most of all I like to deal with low-level stuff and the like. Apart from that I 
 
 **Some information about myself:**
 
-- 💻 I’m currently working on [Anubis](https://github.com/anubis-rs/Anubis)
+- 💻 I’m currently working on [clarus](https://github.com/Lockna/clarus)
 - 🌱 I’m currently learning about dynamic recompiled emulator and kernel stuff
 - 👯 I’m looking to collaborate on QMK Keyboard firmware
 - 💬 Ask me about various things to C or similar
